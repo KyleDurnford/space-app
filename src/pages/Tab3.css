@@ -1,0 +1,25 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.list-img {
+  width: 100px;
+  margin: 0;
+  padding: 20px;
+}
+
+ion-item {
+  cursor: pointer;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.header-width {
+  padding: 20px;
+}
+
+.margin {
+  margin-left: 10px;
+}
